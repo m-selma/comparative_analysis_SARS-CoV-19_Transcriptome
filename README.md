@@ -1,4 +1,4 @@
-# comparative_analysis_SARS-CoV-19_Transcriptome
+# Comparative Analysis of SARS-CoV-19 Transcriptome: classification approaches using features extracted from single-cell vs. bulk RNA-seq data
 
 Problem statement: SARS-CoV-19 is a multi-systems disease characterized by an interplay between immunological and inflammatory cascades. Attempts to describe the heterogeneous host response to the virus will enable a precision approach to therapy. 
 
@@ -16,8 +16,8 @@ Aim: to leverage transcriptomic data analysis and supervised ML techniques to un
 --> compare classification performance using features selected from sc vs. bulk data.
 
 
-### Datasets
-The datasets used are publicly available.
+## Datasets
+All datasets used are publicly available.
 ### For part 1:
 - [feature extraction] - scRNA-seq: gene expression data of PBMN cells of 5 SARS-CoV-19 patients and 3 healthy controls (see /sc_data).
 - [classification] - bulk RNA-seq: GSE152641 (62 SARS-CoV-19/24 healthy), GSE152075 (430 SARS-CoV-19/54 healthy), GSE152418 (17 SARS-CoV-19/17 healthy).
