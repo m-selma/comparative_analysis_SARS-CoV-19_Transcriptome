@@ -20,7 +20,7 @@ Aim: to leverage transcriptomic data analysis and supervised ML techniques to un
 ## Datasets
 All datasets used are publicly available.
 ### For part 1:
-- [feature extraction] - scRNA-seq: GSE166992, gene expression data of PBMN cells of 5 SARS-CoV-19 patients and 3 healthy controls (see /sc_data).
+- [feature extraction] - scRNA-seq: GSE166992, gene expression data of PBMN cells of 5 SARS-CoV-19 patients and 3 healthy controls.
 - [classification] - bulk RNA-seq: GSE152641 (62 SARS-CoV-19/24 healthy), GSE152075 (430 SARS-CoV-19/54 healthy), GSE152418 (17 SARS-CoV-19/17 healthy).
 ### For part 2:
 - [feature extraction] - bulk RNA-seq: GSE196822 (37 SARS-CoV-19/9 healthy).
