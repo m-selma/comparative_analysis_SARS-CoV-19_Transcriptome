@@ -1,0 +1,6 @@
+library(GEOquery)
+library(Matrix)
+library(scCATCH)
+library(readr)
+#
+# extract clinical info of 8 patients included in the study 
