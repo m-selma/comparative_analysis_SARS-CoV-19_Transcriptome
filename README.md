@@ -1,6 +1,7 @@
 # Comparative Analysis of SARS-CoV-19 Transcriptome: classification approaches using features extracted from single-cell vs. bulk RNA-seq data
 
-Problem statement: SARS-CoV-19 is a multi-systems disease characterized by an interplay between immunological and inflammatory cascades. Attempts to describe the heterogeneous host response to the virus will enable a precision approach to therapy. 
+## Problem statement and strategy
+SARS-CoV-19 is a multi-system disease characterized by an interplay between immunological and inflammatory cascades. Attempts to describe the heterogeneous host response to the virus will enable a precision approach to therapy. 
 
 Aim: to leverage transcriptomic data analysis and supervised ML techniques to understand the whole-blood transcriptomic host response to SARS-CoV-2. 
 
